@@ -4,7 +4,7 @@ import sys
 import requests
 from bs4 import BeautifulSoup
 
-# The url contains a header <h3> with id "Officially_assigned_code_elements" followed by a table with categories and subcategories.
+# The url contains a header <h3> with id "Officially_assigned_code_elements" followed by a table
 url = "https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2#Officially_assigned_code_elements"
 
 try:
