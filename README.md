@@ -1,3 +1,5 @@
+## ⚠️ This repository has been archived as the scraper no longer works due to Wikipedia changes.
+
 # 🌍 ISO Scraper
 A very simple script for scraping the current list of ISO 3166-1 alpha-2 country codes and their names from [Wikipedia](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2#Officially_assigned_code_elements).
 
